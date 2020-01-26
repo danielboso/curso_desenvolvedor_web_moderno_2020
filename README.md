@@ -6,6 +6,8 @@
 
 ### Informações sobre o curso
 
+#### Link para o curso: https://www.udemy.com/course/curso-web/
+
 ##### Algumas informações para dar os créditos ao professor do curso.
 
 #### Autor: Leonardo Moura Leitão e COD3R Cursos Online
