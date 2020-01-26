@@ -1,6 +1,6 @@
 # Curso Web Moderno com JavaScript 2020 Completo + Projetos
 
-### Estão neste repositório, códigos referentes a este curso e que podem ser usados para consulta.
+### Estão neste repositório, códigos referentes a este curso e que podem ser úteis para consulta.
 
 ## Créditos ao criador do curso...
 
